@@ -167,6 +167,17 @@ position: center;
 text-align: center;
 color: white;
 }
+
+.blackham2 {
+	position: absolute;
+	font-family: Verdana;
+	font-size: 55px;
+	position: center;
+	left: 510px;
+	text-align: center;
+	color: white;
+}
+
 .mainimg {
 position: absolute;
 width: 24%;
