@@ -209,7 +209,15 @@ box-shadow: -6px -14px 19px black;
 	margin-right: 50.8%;
 	box-shadow: -6px -14px 19px black;
 }
+.divtitle {
+    width: 900px;
+    column-count: 3;
+    column-gap: 20px;
+}
 
-
-
+img {    
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 7px;
+}
 	
