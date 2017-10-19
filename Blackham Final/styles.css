@@ -221,6 +221,17 @@ box-shadow: -6px -14px 19px black;
 	box-shadow: -6px -14px 19px black;
 }
 
+.Fauna1 {
+	margin-top: 100px;
+
+}
+
+.Fauna2 {
+	margin-top: 100px;
+	transform: rotate(270deg); //Positioning//
+}
+
+
 
 
 	
