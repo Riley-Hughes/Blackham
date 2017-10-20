@@ -220,7 +220,13 @@ box-shadow: -6px -14px 19px black;
 	margin-right: 50.8%;
 	box-shadow: -6px -14px 19px black;
 }
+.divtitle {
+    width: 900px;
+    column-count: 3;
+    column-gap: 20px;
+}
 
+<<<<<<< HEAD
 .Fauna1 {
 	margin-top: 100px;
 
@@ -234,4 +240,11 @@ box-shadow: -6px -14px 19px black;
 
 
 
+=======
+img {    
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 7px;
+}
+>>>>>>> 5e7643da96bcdce4d1dc4dd35ade3680b5a26685
 	
