@@ -228,8 +228,9 @@ box-shadow: -6px -14px 19px black;
 
 <<<<<<< HEAD
 .Fauna1 {
-	#margin-top: 100px;
-	#margin-bottom: 5px;
+	display: inline-block;
+    width: 300px;
+    margin-bottom: 7px;
 }
 
 .Fauna2 {
