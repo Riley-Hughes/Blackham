@@ -221,22 +221,19 @@ box-shadow: -6px -14px 19px black;
 	box-shadow: -6px -14px 19px black;
 }
 .divtitle {
-    width: 900px;
-    column-count: 3;
+    width: 1400px;
+    column-count: 1;
     column-gap: 20px;
+    position: fixed;
+
+
+	
+	
 }
 
 <<<<<<< HEAD
-.Fauna1 {
-	display: inline-block;
-    width: 300px;
-    margin-bottom: 7px;
-}
 
-.Fauna2 {
-	margin-top: 100px;
 
-}
 
 
 
